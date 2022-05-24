@@ -4,5 +4,5 @@ Repositório criado para o Desafio de Projeto, esse projeto se trata de uma intr
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
 
-[Slides para facilitar a resolução do desafio proposto] ([Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.pptx - Google Drive](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view))
+[Slides para facilitar a resolução do desafio proposto]([Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.pptx - Google Drive](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view))
 
